@@ -1,3 +1,3 @@
 HI\!
 I added this line in the update-readme branch.
-It's HOT outside.
+It's NICE outside.
